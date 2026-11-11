@@ -1,4 +1,4 @@
-;;; medicated.el --- Medicated Emacs, a minimal and modern Emacs configuration
+;;; medicated.el --- Medicated Emacs, a minimal and modern Emacs configuration -*- lexical-binding: t; -*-
 ;;
 ;;; Commentary:
 ;;
