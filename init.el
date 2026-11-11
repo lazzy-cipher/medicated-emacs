@@ -308,7 +308,7 @@ With argument ARG, takes current line and moves it past ARG lines."
 
 (provide 'init.el)
 
-;; Copyright (C) 2025 Roland Marchand <roland.marchand@protonmail.com>
+;; Copyright (C) 2025, 2026 Lazzy Lore Cipher <lazzy.cipher@proton.me>
 ;;
 ;; Permission to use, copy, modify, and/or distribute this software for
 ;; any purpose with or without fee is hereby granted.
